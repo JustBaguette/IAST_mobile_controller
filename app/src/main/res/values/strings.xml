@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IAST</string>
+    <string name="esp">esp</string>
+    <string name="pc">pc</string>
+    <string name="mobile">mobile</string>
+    <string name="forward">Forward</string>
+    <string name="change_ip">change_ip</string>
+    <string name="fl">FL</string>
+    <string name="fr">FR</string>
+    <string name="left">Left</string>
+    <string name="stop">Stop</string>
+    <string name="right">Right</string>
+    <string name="bl">BL</string>
+    <string name="backward">Backward</string>
+    <string name="br">BR</string>
+    <string name="developed_by_iris">Developed by IRIS</string>
+</resources>
